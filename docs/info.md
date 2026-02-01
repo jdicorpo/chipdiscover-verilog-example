@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is an example state machine for an elevator.  The state machine simulates an elevator moving between floors indicated by pressing a button.  There is a 1 second delay as the elevator moves from the floor to floor.  The display shows the current floor.  The period indicates the elevator is stopped and the door is open.
 
 ## How to test
 
-Explain how to use your project
+Select one of the inputs corresponding to a floor button. 
 
 ## External hardware
 
